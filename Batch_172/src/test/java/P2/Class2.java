@@ -28,7 +28,13 @@ public class Class2
 	@Test
 	public void tc007()
 	{
-		Reporter.log("tcoo7 executed");
+		Reporter.log("tcoo71 executed");
+	}
+	
+	@Test
+	public void tc008()
+	{
+		Reporter.log("tcoo8 executed");
 	}
  
 }
